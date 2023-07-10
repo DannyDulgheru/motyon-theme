@@ -1,0 +1,24 @@
+{
+  "name": "motyon-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyDulgheru/motyon-theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyDulgheru/motyon-theme/issues"
+  },
+  "homepage": "https://github.com/DannyDulgheru/motyon-theme#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.22",
+    "tinacms": "^1.5.13"
+  }
+}
