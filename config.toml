@@ -101,13 +101,13 @@ logo = "images/logo.png"
 
 # Footer Settings
 [params.footer]
-copyright = "Copyright © 2022 Aster"
+copyright = "Copyright © 2022 Motyon"
 col1_title = "Address:"
-col1_text = "Ridgewood Queens,<br/>NY 11385, USA"
+col1_text = "Chisinau,<br/>Bd. Moscova 21"
 col2_title = "Follow Us:"
 col2_text = ""
 col3_title = "Get in touch:"
-col3_text = "asteragency@domain.com<br/>+012 (234) 567 78"
+col3_text = "hi@motyon.cm<br/>+012 (234) 567 78"
 
 # Social Settings
 [[params.social]]

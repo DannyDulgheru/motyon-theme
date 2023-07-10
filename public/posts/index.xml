@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Aster - Creative Agency Portfolio Hugo Theme</title>
+    <link>https://motion.designal.work/posts/</link>
+    <description>Recent content in Posts on Aster - Creative Agency Portfolio Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://motion.designal.work/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World!</title>
+      <link>https://motion.designal.work/posts/hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://motion.designal.work/posts/hello-world/</guid>
+      <description>Hello World! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt.</description>
+    </item>
+    
+  </channel>
+</rss>
